@@ -11,8 +11,8 @@
   DTS:LocaleID="17418"
   DTS:ObjectName="ETL_ConsolidadoFacturacionVentas"
   DTS:PackageType="5"
-  DTS:VersionBuild="29"
-  DTS:VersionGUID="{137CF9CD-F945-4C3C-AA68-3A78448351DB}">
+  DTS:VersionBuild="30"
+  DTS:VersionGUID="{6819A0E6-2A1E-4BD2-B0FC-D20A879F3249}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd4aENCcAdkexbsKwHHfHNAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADlXwkFOyq4RsTbD+SMscno+DJDzQQ8Hr4+yw1MuExl7AAAAAAOgAAAAAIAACAAAADBOCBnF1TiehZdRaqnqHKxDmEBm4J1jGYO92xGqlNwSjAAAABx2OEcWPRjmVr1mjByRUx9PlQeiCd/AENPEGe6msa+nellloFVl7F1AZ/YvrgxIw9AAAAANtVW2B4BSECIQ/tGbN6mxcqyxDfOZw1yNeCP/8ETsTC51S7bkc61AZ8bEfkopa9Eu+h/an1XL0NqiIIH/dxJ7A</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd4aENCcAdkexbsKwHHfHNAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACNOS/CUavcJz2DcmlZIMjoY8guR6Hx3e82rlVjwGXMuwAAAAAOgAAAAAIAACAAAACUxpb9bPs14bpUquaiwL+FMguAM6FPov2UTjr2dvkFUTAAAAA++1BzqSLcusMpjtPtDci7NgcBAqlKZMjpjRDBNQGdz9QSEihKA7UFEksfWx6Vz1FAAAAA7MWJRqTk1R84SI9sDwr/o/k4gr8KNJ5srbVvRwVErTTzNkcsen3VQqW3GDIAccmTEgnJx49vox74RTa6KRIOMw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd4aENCcAdkexbsKwHHfHNAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACxFQKD/kVQ3ayFhj04YQnJ7+iVtuKuDFOAyq1kFaMNkAAAAAAOgAAAAAIAACAAAABmpw/dNBoWagAq2UL2gH7NyMW21mEluBrj7pZo3Q4B2TAAAAAx1nEFiugk7PBi3/LWfEQP/U1fBobRZKiDbRw3XgDolhPg1gX5ZW3naCYu8l5ynjhAAAAA6gnLNweuK9Z9Q9x/Y/bm1M1GpqyCsGNNCq5TqPEVH2wx6UOKVKFDix4jPXyreO4+k+DLuZIn8nKRAHpAw9JQPg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd4aENCcAdkexbsKwHHfHNAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAV+O6DfEMPi1x537SkNuM0xdKOU5ZDVwHYHtAOBcpl/QAAAAAOgAAAAAIAACAAAACtxblTqXi5H7C98h0ZKEa78VcJjAmeT+LofN9GQRDaRjAAAAAOBSyCsrLbw48yk7SdrdzZx8W8W2KNuM3X52II2N3HjuUvnlMF5Y4tTzd3whnOGbJAAAAAb/e79cYhryLDS7iS22gPWgp5N5QQ99vk2vRgJcPUf5mUim3LO6teepNIe7q2JULOW05s55Mv9t1eEjKDGU/ThQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd4aENCcAdkexbsKwHHfHNAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAo0I5NJSpDxHJ0lYcyFGzGrSxLcN4olhrCrA3S4LYZFgAAAAAOgAAAAAIAACAAAADnyyGrMgRlSkipRW8dwBJiEmxui3DMXsslUDcKR9G7rTAAAAA2b9kVXSoIrRn2o3r1tEj1KuhtppqxG7ORaFOZkY8XT5hfgYHSUiRFIbBn2azbDoVAAAAAQcpl8TlCrWblmnN9jqY3jfcSsbGqgGZvM82PqCIaFO5VnAaUCkDVX40kk1zca24EOfzR+tbeN0C4sj8avNkXfw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAd4aENCcAdkexbsKwHHfHNAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACNmzPjbYicNicV5LbmoMzbpFvbTUSnxCQeKzEXIxbQlQAAAAAOgAAAAAIAACAAAACnhg/VqeDIeceH3nhOZCt2PHXlwcYv/QV7F62H5azWxjAAAABjV132PRJkf+P61cofpCN2QGBvrCf5YumLwqwkNTpr5o0xz7RqkQojCUX3kTR4NO1AAAAAwxMLVnVzhg982vz3OAbsAs/VaM35B1fwuZX/DC2oGcVRbtX3jfxlgl5iGsnHaBNmJ0LBFmZV3moQDDryBvWQ5w</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -2493,7 +2493,7 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
     design-time-name="Package\Data Flow Task">
     <LayoutInfo>
       <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="124,42"
           Id="Package\Data Flow Task\Honduras"
@@ -2565,7 +2565,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="13.8005859375,21.5,27.398828125,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2599,7 +2601,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="58.01443359375,32.5,32.9711328125,9.8125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2633,7 +2637,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="11.01443359375,29.5,32.9711328125,9.8125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2667,7 +2673,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-39.48556640625,28,32.9711328125,9.8125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2701,7 +2709,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-167.61056640625,47.3989218328841,32.9711328125,9.8125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2735,7 +2745,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-33.73556640625,38,32.9711328125,9.8125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2769,7 +2781,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="100.88943359375,50.6603773584906,32.9711328125,9.8125"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2791,7 +2805,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-13.6994140625,12.35107421875,27.398828125,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <AnnotationLayout
@@ -2828,7 +2844,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-19.1301171875,5.85107421875,38.260234375,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2862,7 +2880,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-118.3801171875,40,38.260234375,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2896,7 +2916,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="57.7865494791667,31.1052631578948,38.260234375,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
@@ -2922,7 +2944,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-13.83857421875,11.85107421875,27.6771484375,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <NodeLayout
@@ -2952,7 +2976,9 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-13.83857421875,9.35107421875,27.6771484375,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -2986,9 +3012,18 @@ INNER JOIN dbo.tipo_clientes ON dbo.cliente.idtipocliente =dbo.tipo_clientes.idt
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="-9.08857421875,35,27.6771484375,9.7978515625"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <AnnotationLayout
+          Text="D"
+          ParentId="Package\Data Flow Task"
+          FontInfo="{assembly:Null}"
+          Size="37,60"
+          Id="56694654-62ba-43db-b73e-f20f74a0dfff"
+          TopLeft="581,691" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
